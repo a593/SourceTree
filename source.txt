@@ -1,1 +1,3 @@
-Hi This is learning repo for SourceTree
+Hi This is learning repo for SourceTree.
+
+Finally Cloned from git.
